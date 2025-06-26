@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "688301596122",
+    "project_id": "otp-verification-dff0f",
+    "storage_bucket": "otp-verification-dff0f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:688301596122:android:267383588a846ece73f4e3",
+        "android_client_info": {
+          "package_name": "com.anonymous.StickerSmash"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA1QGdu3tG0eIc-XyVeg4DQ8JcPWXP2QVo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
